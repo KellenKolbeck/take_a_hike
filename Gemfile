@@ -24,6 +24,13 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 # Handle user authentication
 gem 'devise'
+# Normalize SCSS
+gem 'normalize-scss'
+# Bootstrap
+gem 'bootstrap'
+gem 'bootstrap-sass', '~> 3.2.0'
+# SASS Linter
+gem 'scss_lint'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
